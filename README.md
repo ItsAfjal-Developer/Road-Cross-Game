@@ -22,14 +22,13 @@ The goal is Simple: Move your Character forward across Roads, Avoiding Cars and 
 
 ## 🛠 Tech Stack
 
-- **HTML5** – Structure and Layout.
-- **CSS3** – Styling, Responsiveness and Themes.
-- **JavaScript (ES6)** – Interactive Glowing Cursor.
-- **Google Fonts** – Clean and Modern typography.
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
 
 ## 📸Screenshots
 
-Below is a Preview of **Neon Cursor**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
+Below is a Preview of **Road Cross Game**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
-<img src="Screenshot.png" alt="Neon Cursor" width="100%" />
+<img src="Screenshot.png" alt="Road Cross Game" width="100%" />
