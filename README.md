@@ -4,20 +4,20 @@ The goal is Simple: Move your Character forward across Roads, Avoiding Cars and 
 
 ## **Gameplay**
 
-- **Use the arrow keys (↑, ↓, ←, →) to move your character.
+- **Use the arrow keys (↑, ↓, ←, →) to move your Character.**
 
-Dodge cars, trucks, and other obstacles.
+- **Dodge Cars, Trucks and other Obstacles.**
 
-Move forward safely to increase your score.
+- **Move forward safely to Increase your Score.**
 
-The game ends if you get hit by a vehicle.
+- **The Game ends if you get hit by a Vehicle.**
   
 ## ✨ Features
-- **Neon Glowing text animation (Name + Title)
-- **Custom Glowing Cursor Effect
-- **Gradient background with Futuristic Design
-- **Fully Responsive Layout
-- **Clean HTML, CSS and JavaScript Structure
+- **Simple one-button controls (arrow keys).**
+
+- **Randomly generated traffic for unique runs every time.**
+
+- **Score System to track your Progress.**
 
 
 ## 🛠 Tech Stack
