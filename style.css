@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P");
+
+body {
+  margin: 0;
+  display: flex;
+  min-height: 100vh;
+  scroll-behavior: smooth;
+}
+
+#root {
+  width: 100%;
+}
+
+.game {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  font-family: "Press Start 2P", cursive;
+}
+
+#controls {
+  bottom: 20px;
+  display: flex;
+  min-width: 100%;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+#controls div {
+  gap: 10px;
+  display: grid;
+  grid-template-columns: 50px 50px 50px;
+}
+
+#controls button {
+  width: 100%;
+  height: 40px;
+  outline: none;
+  cursor: pointer;
+
+  background-color: white;
+  border: 1px solid lightgray;
+  box-shadow: 3px 5px 0px 0px rgba(0, 0, 0, 0.75);
+}
+
+#controls button:first-of-type {
+  grid-column: 1/-1;
+}
+
+#score {
+  top: 20px;
+  left: 20px;
+  font-size: 2em;
+  color: white;
+  position: absolute;
+}
+
+#result-container {
+  top: 0;
+  display: flex;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+
+  #result {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+  }
+
+  button {
+    cursor: pointer;
+    font-size: inherit;
+    font-family: inherit;
+    background-color: red;
+    padding: 20px 50px 20px 50px;
+  }
+}
