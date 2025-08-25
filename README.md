@@ -31,4 +31,9 @@ The goal is Simple: Move your Character forward across Roads, Avoiding Cars and 
 Below is a Preview of **Road Cross Game**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
-<img src="Screenshot.png" alt="Road Cross Game" width="100%" />
+
+- **Game Play**
+<img src="sscreenshot 1.png" alt="Road Cross Game" width="100%" />
+
+- **Game Over**
+<img src="sscreenshot 2.png" alt="Road Cross Game" width="100%" />
